@@ -4,7 +4,9 @@ public class Test_01 {
 	
 	public static void main(String[] args) {
 		
-		System.out.print("Testing Testing...");
+		System.out.println("Testing Testing...");
+		
+		System.out.println("1... 2...");
 		
 	}
 
